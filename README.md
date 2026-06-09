@@ -85,7 +85,7 @@ Prashant Todmal
 
 B.Tech CSE Passout 2025 | Java & Full-stack Developer
 
-🔗 [LinkedIn](https://www.linkedin.com/in/prashant-todmal-b36141413/) | GitHub: [prashanttodmal01]([https://github.com/vaibhavpatilX](https://github.com/prashanttodmal01))
+🔗 [LinkedIn](https://www.linkedin.com/in/prashant-todmal-b36141413/)
 
 🔗 GitHub Repository
 👉 [Study Tracker - Java Project](https://github.com/prashanttodmal01/StudyTracker)
